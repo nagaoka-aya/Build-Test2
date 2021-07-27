@@ -583,7 +583,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: DEVELOP
+    1: 
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
@@ -675,9 +675,9 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 4374757d-3458-4064-9ad1-f75fcb5c0603
+  cloudProjectId: 641377f8-2d72-4166-aa2f-ed744bda9ce5
   framebufferDepthMemorylessMode: 0
-  projectName: Build-Test
+  projectName: Build-Test (1)
   organizationId: nagaoka_aya
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
